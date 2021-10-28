@@ -1,0 +1,57 @@
+h1, h2 { 
+    color: rgb(133, 133, 133);
+    font-size: 20px; 
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+form {
+    margin: auto;
+    padding-top: 5px;
+    width: 65%; 
+    font-size: 15px; 
+    background: center; 
+    background-color: rgb(204, 198, 198);
+    border-radius: 10px; 
+    padding-top: 30px;
+}
+label{
+    background: fixed;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+input{
+    font-size: 18px;
+    line-height: 28px;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+}
+input[type="submit"], button{
+    cursor: pointer;
+    height: 30px;
+    width: 25%;
+}
+#conteudo {
+    border-radius: none;
+    padding: 25px 40px; 
+    background: center; 
+    text-align: center; 
+}
+a{
+    position: relative;
+    color: rgb(133, 133, 133);
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a:hover{
+    background: rgb(180, 173, 173);
+    color: #fff;
+    padding: 5px 10px;
+}
+.labels{
+    text-align: center;
+} 
